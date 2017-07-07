@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Window1.qml</file>
+        <file>FileSearch.qml</file>
+        <file>Window2.qml</file>
+        <file>Button1.qml</file>
+        <file>ColorBox.qml</file>
+        <file>Window3.qml</file>
+        <file>RoundMouseArea.qml</file>
+        <file>FileMenu.qml</file>
+        <file>MainFunctions.js</file>
+        <file>setup.txt</file>
+        <file>ColorPixel.qml</file>
+    </qresource>
+</RCC>
